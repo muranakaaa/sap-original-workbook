@@ -1,0 +1,21 @@
+## 一問一答
+<details>
+<summary>Egress-Only Internet Gatewayとは？</summary>
+IPv6 のアウトバウンド専用インターネットゲートウェイ。
+外へは出られるが、外から入ってこれない（非対称通信を防げる）仕組み。
+</details>
+
+
+<details>
+<summary></summary>
+</details>
+
+
+<details>
+<summary></summary>
+</details>
+
+
+<details>
+<summary></summary>
+</details>
